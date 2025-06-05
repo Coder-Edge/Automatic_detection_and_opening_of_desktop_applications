@@ -59,7 +59,3 @@ python detecteur_lanceur.py
 
 - Pour ouvrir une autre application : remplace `./images/Chrome.png` par une image de ton choix.
 - Ajuste la variable `SEUIL_CONFIANCE` si l’icône est mal reconnue ou trop sensible.
-
-## 🛡️ Avertissement
-
-⚠️ Ce script simule des actions humaines (clavier, souris). Utilisez-le de manière responsable. Il peut ne pas fonctionner correctement si le bureau est encombré, ou si l’icône est déplacée, renommée, ou masquée.
